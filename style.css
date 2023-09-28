@@ -1,0 +1,116 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+/*barra de navegacion*/
+
+.barra-de-navegacion{
+    background-color:#343a40;
+   
+}
+.conferencia.nav-link{
+color: white;
+}
+.nav-link{
+color:#adb5bd;
+}
+.Bs-As{
+text-decoration: none;
+
+}
+/*tarjeta principal*/
+.card-img-overlay{
+padding-top: 30%;
+padding-right:10% ;
+text-align:end;
+
+
+}
+.principal{
+opacity:50% ;
+}
+
+/*tres tarjetas*/
+.titulo{
+font-size:large;
+}
+.java {
+    background-color: yellow;
+    width:fit-content;
+    border-radius: 10%;
+   font-weight: bold;
+margin:2%
+
+}
+.react{
+    background-color: turquoise;
+    width:fit-content;
+    border-radius: 10%;
+   font-weight: bold;   
+   color: white; 
+   margin:2%
+}
+.negocios{
+    background-color:gray;
+    width:fit-content;
+    border-radius: 10%;
+   font-weight: bold;   
+   color: white; 
+   margin:2%
+}
+.startups{
+    background-color:red;
+    width:fit-content;
+    border-radius: 10%;
+   font-weight: bold;   
+   color: white; 
+   margin:2%
+}
+
+/*tarjeta bs as octubre*/
+
+.col-md-6{
+
+    background-color:#343a40;
+    color: white;
+}
+
+
+/*formulario*/
+.formulario{
+padding-left: 20%;
+padding-right:20% ;
+}
+.enviar{
+background-color:greenyellow ;
+border:1px solid greenyellow ;
+}
+/* <!--footer-->*/
+footer{
+  background-color:#1F618D ;
+
+
+}
+
+
+@media (max-width: 767.98px) { 
+footer{
+    justify-content:space-between;
+    align-items:center
+}
+.card-img-overlay{
+    padding-top: 15%;
+    padding-right:5% ;
+    padding-bottom: 15%;
+    text-align:start;
+    font-size:xx-small;
+
+
+ } 
+
+ }
+
+
+ 
+
+
+ 
