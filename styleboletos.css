@@ -1,0 +1,71 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+/*barra de navegacion*/
+
+.barra-de-navegacion{
+    background-color:#343a40;
+   
+}
+.conferencia.nav-link{
+color: white;
+}
+.nav-link{
+color:#adb5bd;
+}
+.Bs-As{
+text-decoration: none;
+
+}
+
+
+.tarjeta-principal{
+    padding: 3%;
+    text-align: center;
+    
+    }
+    .ticket{
+    font-size: xx-large;
+    }
+    
+    .formulario-compra{
+    padding: 5%;
+    border: 2px;
+    }
+
+.botones{
+align-content: space-between;
+
+}
+
+.pagar{
+width: 82%;
+padding: 2%;
+background-color:#C6D6F9;
+color:#1F618D
+}
+
+.botones{
+    
+padding-top: 3%;
+padding-left: 10%;
+padding-right: 10%;
+
+}
+.bot{
+background-color:#9EE71E;
+border:1px solid #9EE71E ;
+width: 25em;
+height:3em;
+}
+.formulario-compra{
+padding:5%;
+
+}
+
+    /* <!--footer-->*/
+footer{
+    background-color:#1F618D ;
+  
+  
+  }

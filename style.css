@@ -1,5 +1,6 @@
 *{
     font-family: 'Open Sans', sans-serif;
+   
 }
 /*barra de navegacion*/
 
@@ -81,8 +82,8 @@ padding-left: 20%;
 padding-right:20% ;
 }
 .enviar{
-background-color:greenyellow ;
-border:1px solid greenyellow ;
+background-color:#9EE71E ;
+border:1px solid #9EE71E;
 }
 /* <!--footer-->*/
 footer{
